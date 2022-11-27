@@ -5,6 +5,7 @@ My attempts to solve tasks from the site
 
 Longest Substring Without Repeating Characters
 [description](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+[my solution](https://github.com/llnoor/leetcode.com/blob/32c66a73f198ed5ce232bccf805d176153d873a9/longest-substring-without-repeating-characters.cpp)
 
 
 # Easy:
