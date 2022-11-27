@@ -1,6 +1,12 @@
 # leetcode.com
 My attempts to solve tasks from the site
 
+[# MEDIUM](https://leetcode.com/problemset/all/?difficulty=MEDIUM&page=1&sorting=W3t9XQ%3D%3D)
+
+Longest Substring Without Repeating Characters
+[description](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+
 # Easy:
 
 Palindrome Number: 
